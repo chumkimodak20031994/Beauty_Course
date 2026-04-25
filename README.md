@@ -4,7 +4,7 @@ About Project
 A modern and responsive Beauty Course Landing Page where users can explore beauty courses, view top-rated courses, and place orders easily.
 
 Live site link:
-https://lambent-medovik-baf168.netlify.app/
+https://voluble-sfogliatella-0c40ba.netlify.app/
 
 ✔ Responsive Navbar with mobile menu ☰
 ✔ Top 6 courses on Home page

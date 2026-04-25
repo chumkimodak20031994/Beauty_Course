@@ -9,7 +9,7 @@ const Home = () => {
     .slice(0, 6);
   const navigate = useNavigate();
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center">
+    <div className="min-h-screen flex flex-col items-center justify-center mt-5">
       <div className="relative max-w-5xl w-full rounded-2xl overflow-hidden shadow-xl">
         {/* Image */}
         <img
