@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Makeup Course",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=500",
+    "details": "Learn foundation, contour, and daily makeup basics.",
+    "contact": "9876543210",
+    "price": 199,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Bridal Makeup Mastery",
+    "image": "https://images.unsplash.com/photo-1500840216050-6ffa99d75160?q=80&w=500",
+    "details": "Professional bridal makeup techniques.",
+    "contact": "9876543211",
+    "price": 499,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Advanced Skincare",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?q=80&w=500",
+    "details": "Deep skincare knowledge and routines.",
+    "contact": "9876543212",
+    "price": 299,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Hair Styling Course",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?q=80&w=500",
+    "details": "Modern hair styling techniques.",
+    "contact": "9876543213",
+    "price": 249,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Professional Makeup Artist",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=500",
+    "details": "Become a certified makeup artist.",
+    "contact": "9876543214",
+    "price": 599,
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Nail Art Design",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=500",
+    "details": "Creative nail art and design.",
+    "contact": "9876543215",
+    "price": 199,
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "Beauty Therapy Basics",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=500",
+    "details": "Introduction to beauty therapy.",
+    "contact": "9876543216",
+    "price": 149,
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "name": "Facial Treatment Course",
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?q=80&w=500",
+    "details": "Professional facial treatments.",
+    "contact": "9876543217",
+    "price": 299,
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "Salon Management",
+    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?q=80&w=500",
+    "details": "Learn how to run a salon business.",
+    "contact": "9876543218",
+    "price": 399,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Eyebrow & Lash Styling",
+    "image": "https://images.unsplash.com/photo-1583001931096-959e9a1a6223?q=80&w=500",
+    "details": "Perfect brows and lashes styling.",
+    "contact": "9876543219",
+    "price": 199,
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "name": "Spa Therapy Course",
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=500",
+    "details": "Relaxing spa therapy techniques.",
+    "contact": "9876543220",
+    "price": 349,
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Makeup for Beginners",
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?q=80&w=500",
+    "details": "Step-by-step beginner makeup guide.",
+    "contact": "9876543221",
+    "price": 149,
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "name": "Party Makeup Look",
+    "image": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?q=80&w=500",
+    "details": "Glamorous party makeup styles.",
+    "contact": "9876543222",
+    "price": 199,
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "name": "Airbrush Makeup",
+    "image": "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?q=80&w=500",
+    "details": "Advanced airbrush makeup techniques.",
+    "contact": "9876543223",
+    "price": 499,
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "name": "Hair Coloring Techniques",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=500",
+    "details": "Hair coloring and highlights.",
+    "contact": "9876543224",
+    "price": 299,
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "name": "Skin Glow Secrets",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=500",
+    "details": "Achieve natural glowing skin.",
+    "contact": "9876543225",
+    "price": 199,
+    "rating": 4.4
+  },
+  {
+    "id": 17,
+    "name": "Makeup Business Guide",
+    "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?q=80&w=500",
+    "details": "Start your own beauty business.",
+    "contact": "9876543226",
+    "price": 399,
+    "rating": 4.7
+  },
+  {
+    "id": 18,
+    "name": "Luxury Bridal Package",
+    "image": "https://images.unsplash.com/photo-1500840216050-6ffa99d75160?q=80&w=500",
+    "details": "Complete bridal makeover package.",
+    "contact": "9876543227",
+    "price": 699,
+    "rating": 4.9
+  },
+  {
+    "id": 19,
+    "name": "Quick Makeup Hacks",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=500",
+    "details": "Fast and easy makeup tricks.",
+    "contact": "9876543228",
+    "price": 99,
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "name": "Complete Beauty Course",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?q=80&w=500",
+    "details": "All-in-one beauty master course.",
+    "contact": "9876543229",
+    "price": 799,
+    "rating": 5.0
+  }
+]
